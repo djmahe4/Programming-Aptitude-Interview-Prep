@@ -369,5 +369,6 @@ else: # Quiz is active
         if st.session_state.answer_submitted_for_current_q:
             if st.button("➡️ Next Question", key=f"next_q_btn_{st.session_state.current_q_index}", type="primary"):
                 st.session_state.current_q_index += 1
-                st.session_state.answer_submitted_for_current_q = False # Reset for the next question
-                st.rerun()
+                st.session_state.answer_submitted_for_current_q = True
+                #st.session_state.answer_submitted_for_current_q = False # Reset for the next question
+                #st.rerun()
