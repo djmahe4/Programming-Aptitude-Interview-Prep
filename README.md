@@ -69,8 +69,8 @@
 ---
 
 ## Planned Updates:
-- [] ⭐ **Interview Experience Section**: We are planning to introduce a section that will highlight interview experiences from different companies. Stay tuned for more updates!
-- [] ⭐ **Other Skills/Programming Languages**: We are planning to introduce new technologies like Flutter, Go, Rust and AI based skills like Neural Networks, Langchain etc
+- [ ] ⭐ **Interview Experience Section**: We are planning to introduce a section that will highlight interview experiences from different companies. Stay tuned for more updates!
+- [ ] ⭐ **Other Skills/Programming Languages**: We are planning to introduce new technologies like Flutter, Go, Rust and AI based skills like Neural Networks, Langchain etc
 ---
 
 ## How to Contribute:
