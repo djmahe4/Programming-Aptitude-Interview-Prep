@@ -1,2 +1,2 @@
 - While opening `PROD250219_Cyber Interview Questions.apkg` make sure that u have anki installed
-- Install it here https://apps.ankiweb.net/
+- Install it from here https://apps.ankiweb.net/
