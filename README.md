@@ -6,6 +6,8 @@
 
 🚀 Just raise a Pull Request to contribute with a mission to help as much as fresher level job-seekers as possible. Happy Coding!!
 
+⭐ Anyone could acccess the web interface which directly gives Aptitude questions generated though Gemini API call! \\ First you have to create an API Key from aistudio.google.com/apikey
+
 ---
 
 ## Important Links for Prep Resources:
