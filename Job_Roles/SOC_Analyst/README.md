@@ -1,3 +1,4 @@
 - While opening `PROD250219_Cyber Interview Questions.apkg` make sure that u have anki installed
 - Install it from here https://apps.ankiweb.net/
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+- [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
