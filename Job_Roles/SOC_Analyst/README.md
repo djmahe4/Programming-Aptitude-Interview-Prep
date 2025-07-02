@@ -2,3 +2,4 @@
 - Install it from here https://apps.ankiweb.net/
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
+- [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
