@@ -3,7 +3,7 @@
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
-# SOC Analyst Roadmap 🔵🎯 [url](https://x.com/SecurityTrybe/status/1942642972383650286)
+# SOC Analyst Roadmap 🔵🎯 -> [url](https://x.com/SecurityTrybe/status/1942642972383650286)
 ```
 ├── Core Skills  
 │   ├── Networking  
