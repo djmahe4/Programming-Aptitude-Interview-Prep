@@ -1,3 +1,41 @@
+# SOC Analyst: Duties, Responsibilities, Career Progression, Interview prep and Roadmap
+
+This document outlines the core duties and responsibilities of a Security Operations Center (SOC) analyst, followed by a typical career progression path.
+
+---
+
+## Duties and Responsibilities
+
+- Monitor network traffic, system logs, and security alerts using SIEM, IDS/IPS, and EDR platforms to detect anomalous activity in real time.
+
+- Investigate, contain, and remediate security incidents; document findings and report on incident metrics and root-cause analyses.
+
+- Gather and analyze threat intelligence to identify emerging risks and attack trends; produce actionable intelligence reports for stakeholders.
+
+- Implement, configure, and tune security tools (e.g., Splunk, ELK, QRadar, CrowdStrike, Snort, Suricata, Zeek); ensure they operate optimally.
+
+- Perform vulnerability assessments and penetration tests using tools like Nessus, Qualys, or OpenVAS; coordinate patch management and hardening efforts.
+
+- Develop and maintain security policies, procedures, and playbooks aligned with industry standards and regulatory requirements (GDPR, HIPAA, PCI-DSS).
+
+- Conduct user-awareness training, phishing simulations, and post-incident feedback sessions to bolster organizational security culture.
+
+- Plan and test disaster recovery and business continuity workflows; refine IR drills and tabletop exercises to improve response readiness.
+
+---
+
+## Career Progression
+
+| Tier | Role                             | Key Responsibilities                                    |
+|------|----------------------------------|---------------------------------------------------------|
+| 1    | SOC Analyst I (Entry)            | Triage alerts; escalate incidents; basic log analysis   |
+| 2    | SOC Analyst II (Intermediate)    | Lead investigations; containment and remediation        |
+| 3    | Threat Hunter / SOC Analyst III  | Proactive threat hunts; advanced forensics; pen tests   |
+| 4    | SOC Engineer / Architect         | Design and deploy SOC tooling; refine detection logic   |
+| 5    | SOC Manager                      | Oversee SOC operations; manage team, budget, and strategy |
+
+Data source: Infosec Institute
+## Interview Prep
 - [Comptia Network+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/net%2B.md)
 - [Comptia Security+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/sec%2B.md)
 - While opening `PROD250219_Cyber Interview Questions.apkg` make sure that u have anki installed
@@ -5,7 +43,7 @@
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
-# SOC Analyst Roadmap 🔵🎯 -> [url](https://x.com/SecurityTrybe/status/1942642972383650286)
+## SOC Analyst Roadmap 🔵🎯 -> [url](https://x.com/SecurityTrybe/status/1942642972383650286)
 ```
 ├── Core Skills  
 │   ├── Networking  
