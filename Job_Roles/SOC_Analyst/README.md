@@ -95,3 +95,97 @@ Data source: Infosec Institute
 │   ├── Deception: Honeypots, Alert Analysis  
 │   └── Simulation: Purple Teaming, ATT&CK Mapping
 ```
+## 𝗙𝗿𝗲𝗲 𝗦𝗜𝗘𝗠 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴𝘀 𝟮𝟬𝟮5 -> [link](https://www.linkedin.com/feed/update/urn:li:activity:7352373163340546048)
+
+### ✅General
+📎Windows Logging Basics - https://lnkd.in/grKYFQzJ
+📎Jose Bravo - What is a SIEM? (5 Vídeos): https://lnkd.in/gc2UDpeD
+📎PowerSIEM Analyzing Sysmon Events with PowerShell: https://lnkd.in/g_8Eq8vm
+
+### ✅QRadar
+📎Jose Bravo - QRadar (38 Vídeos): https://lnkd.in/gd7V_4pe
+📎QRadar 101 - https://lnkd.in/esbz2RjK
+📎QRadar SIEM Foundation: https://lnkd.in/es8NAdAw
+📎Ariel Query Language Guide: https://lnkd.in/eAMKy25q
+
+### ✅Splunk 
+📎Course Catalog - https://lnkd.in/ekm6RekE 
+📎Basic Searching : https://lnkd.in/gygnTMfD 
+📎Practical Splunk - Zero to Hero : https://lnkd.in/ePF_3PWj
+📎Splunk Use Cases - https://lnkd.in/eJ4CTNV2
+📎Exploring Splunk: https://lnkd.in/e8gVvMuu
+
+### ✅Microsoft Sentinel
+📎What is Microsoft Sentinel: https://lnkd.in/gdB7dAdU
+📎Microsoft Sentinel Level 400 training : https://lnkd.in/ezDkpWmx
+📎SOC 101: https://lnkd.in/evnF6kNm
+
+### ✅FortiSIEM: https://lnkd.in/e5TvYZYt
+
+### ✅AlienVault OSSIM
+📎Cybrary - AlienVault OSSIM: https://lnkd.in/gRZAansT
+
+### ✅Elastic - SIEM 
+📎Fundamentals: https://lnkd.in/gYNYs9vS
+📎Manual: https://lnkd.in/dTVwgSbH
+
+### ✅ArcSight (2 séries/paylists de vídeos)
+📎Paul Brettle - What is Series: https://lnkd.in/gh5ruPZt
+📎Paul Brettle - ArcSight ESM 101: https://lnkd.in/gS33AJdk
+📎ArcSight Tutorial: https://lnkd.in/guEydy_U
+
+### ✅SureLogSIEM Training
+📎Training (English): https://lnkd.in/eAnAYDWJ
+📎Training (Turkish): https://lnkd.in/e9VgJFHa
+📎Training PDF: https://lnkd.in/eXYFmqqV
+📎User Guide PDF: https://lnkd.in/e4HqkexW
+
+### ✅LogSign
+📎Training: https://lnkd.in/eXnjymv6
+
+### ✅Wazuh
+⚡️ Wazuh Basics
+▪️ Wazuh Crash Course – 2+ Hour Free Training
+🔗 https://lnkd.in/dQgmwpfR
+▪️ Wazuh Overview & Architecture
+🔗 https://lnkd.in/dpG6iYuQ
+
+⚡️ Lab Setup
+▪️ Wazuh All-in-One Lab
+🔗 https://lnkd.in/d4TbFJau
+▪️ Install Wazuh on VirtualBox
+🔗 https://lnkd.in/ddD65zu3
+▪️ Install Wazuh on Docker
+🔗 https://lnkd.in/ddD65zu3
+▪️ Create Custom Dashboards
+🔗 https://lnkd.in/dZ-2CxhT
+
+⚡️ Log Analysis
+▪️ Log Ingestion on Wazuh
+🔗 https://lnkd.in/dym9fFxq
+▪️ Windows Sysmon Log Analysis
+🔗 https://lnkd.in/djvb9sZP
+▪️ Graylog Integration
+🔗 https://lnkd.in/d2BxixuY
+
+⚡️ Threat Detection
+▪️ Correlation Rules in Wazuh
+🔗 https://lnkd.in/dHtXuXB5
+▪️ VirusTotal Integration
+🔗 https://lnkd.in/dT6YnfpE
+▪️ Suricata IDS Integration
+🔗 https://lnkd.in/dH4R4J-s
+▪️ Advanced Wazuh Rulesets
+🔗 https://lnkd.in/dYFGbrZB
+
+⚡️ Incident Response
+▪️ Block SSH Brute-Force
+🔗 https://lnkd.in/d9eWmQUb
+▪️ Disable Linux User Account
+🔗 https://lnkd.in/dAsW4jjt
+
+⚡️ Threat Hunting
+▪️ Hunt via Inventory Data
+🔗 https://lnkd.in/dB97vg-f
+▪️ FIM + Yara for Linux
+🔗 https://lnkd.in/dAwEkarW
