@@ -44,7 +44,7 @@ Data source: Infosec Institute
 - [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
 - [𝑭𝒓𝒆𝒆 𝑺𝑰𝑬𝑴 𝑻𝒓𝒂𝒊𝒏𝒊𝒏𝒈 & 𝑯𝒂𝒏𝒅𝒔-𝑶𝒏 𝑳𝒂𝒃𝒔](https://x.com/SecurityTrybe/status/1945056525594005811)
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
-## SOC Analyst Roadmap 🔵🎯 -> [url](https://x.com/SecurityTrybe/status/1942642972383650286)
+## SOC Analyst Roadmap 🔵🎯 -> [link](https://x.com/SecurityTrybe/status/1942642972383650286)
 ```
 ├── Core Skills  
 │   ├── Networking  
