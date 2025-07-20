@@ -187,5 +187,5 @@ Data source: Infosec Institute
 #### ⚡️ Threat Hunting
 ▪️ Hunt via Inventory Data <br>
 🔗 https://lnkd.in/dB97vg-f <br>
-▪️ FIM + Yara for Linux
+▪️ FIM + Yara for Linux <br>
 🔗 https://lnkd.in/dAwEkarW
