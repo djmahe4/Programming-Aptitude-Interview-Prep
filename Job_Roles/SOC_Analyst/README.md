@@ -98,27 +98,27 @@ Data source: Infosec Institute
 ## 𝗙𝗿𝗲𝗲 𝗦𝗜𝗘𝗠 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴𝘀 𝟮𝟬𝟮5 -> [link](https://www.linkedin.com/feed/update/urn:li:activity:7352373163340546048)
 
 ### ✅General
-📎Windows Logging Basics - https://lnkd.in/grKYFQzJ
-📎Jose Bravo - What is a SIEM? (5 Vídeos): https://lnkd.in/gc2UDpeD
-📎PowerSIEM Analyzing Sysmon Events with PowerShell: https://lnkd.in/g_8Eq8vm
+📎Windows Logging Basics - https://lnkd.in/grKYFQzJ <br>
+📎Jose Bravo - What is a SIEM? (5 Vídeos): https://lnkd.in/gc2UDpeD <br>
+📎PowerSIEM Analyzing Sysmon Events with PowerShell: https://lnkd.in/g_8Eq8vm <br>
 
 ### ✅QRadar
-📎Jose Bravo - QRadar (38 Vídeos): https://lnkd.in/gd7V_4pe
-📎QRadar 101 - https://lnkd.in/esbz2RjK
-📎QRadar SIEM Foundation: https://lnkd.in/es8NAdAw
-📎Ariel Query Language Guide: https://lnkd.in/eAMKy25q
+📎Jose Bravo - QRadar (38 Vídeos): https://lnkd.in/gd7V_4pe <br>
+📎QRadar 101 - https://lnkd.in/esbz2RjK <br>
+📎QRadar SIEM Foundation: https://lnkd.in/es8NAdAw <br>
+📎Ariel Query Language Guide: https://lnkd.in/eAMKy25q <br>
 
 ### ✅Splunk 
-📎Course Catalog - https://lnkd.in/ekm6RekE 
-📎Basic Searching : https://lnkd.in/gygnTMfD 
-📎Practical Splunk - Zero to Hero : https://lnkd.in/ePF_3PWj
-📎Splunk Use Cases - https://lnkd.in/eJ4CTNV2
-📎Exploring Splunk: https://lnkd.in/e8gVvMuu
+📎Course Catalog - https://lnkd.in/ekm6RekE <br>
+📎Basic Searching : https://lnkd.in/gygnTMfD <br>
+📎Practical Splunk - Zero to Hero : https://lnkd.in/ePF_3PWj <br>
+📎Splunk Use Cases - https://lnkd.in/eJ4CTNV2 <br>
+📎Exploring Splunk: https://lnkd.in/e8gVvMuu <br>
 
 ### ✅Microsoft Sentinel
-📎What is Microsoft Sentinel: https://lnkd.in/gdB7dAdU
-📎Microsoft Sentinel Level 400 training : https://lnkd.in/ezDkpWmx
-📎SOC 101: https://lnkd.in/evnF6kNm
+📎What is Microsoft Sentinel: https://lnkd.in/gdB7dAdU <br>
+📎Microsoft Sentinel Level 400 training : https://lnkd.in/ezDkpWmx <br>
+📎SOC 101: https://lnkd.in/evnF6kNm <br>
 
 ### ✅FortiSIEM: https://lnkd.in/e5TvYZYt
 
@@ -126,66 +126,66 @@ Data source: Infosec Institute
 📎Cybrary - AlienVault OSSIM: https://lnkd.in/gRZAansT
 
 ### ✅Elastic - SIEM 
-📎Fundamentals: https://lnkd.in/gYNYs9vS
-📎Manual: https://lnkd.in/dTVwgSbH
+📎Fundamentals: https://lnkd.in/gYNYs9vS <br>
+📎Manual: https://lnkd.in/dTVwgSbH <br>
 
 ### ✅ArcSight (2 séries/paylists de vídeos)
-📎Paul Brettle - What is Series: https://lnkd.in/gh5ruPZt
-📎Paul Brettle - ArcSight ESM 101: https://lnkd.in/gS33AJdk
-📎ArcSight Tutorial: https://lnkd.in/guEydy_U
+📎Paul Brettle - What is Series: https://lnkd.in/gh5ruPZt <br>
+📎Paul Brettle - ArcSight ESM 101: https://lnkd.in/gS33AJdk <br>
+📎ArcSight Tutorial: https://lnkd.in/guEydy_U <br>
 
 ### ✅SureLogSIEM Training
-📎Training (English): https://lnkd.in/eAnAYDWJ
-📎Training (Turkish): https://lnkd.in/e9VgJFHa
-📎Training PDF: https://lnkd.in/eXYFmqqV
-📎User Guide PDF: https://lnkd.in/e4HqkexW
+📎Training (English): https://lnkd.in/eAnAYDWJ <br>
+📎Training (Turkish): https://lnkd.in/e9VgJFHa <br>
+📎Training PDF: https://lnkd.in/eXYFmqqV <br>
+📎User Guide PDF: https://lnkd.in/e4HqkexW <br>
 
 ### ✅LogSign
 📎Training: https://lnkd.in/eXnjymv6
 
 ### ✅Wazuh
-⚡️ Wazuh Basics
-▪️ Wazuh Crash Course – 2+ Hour Free Training
-🔗 https://lnkd.in/dQgmwpfR
-▪️ Wazuh Overview & Architecture
-🔗 https://lnkd.in/dpG6iYuQ
+#### ⚡️ Wazuh Basics 
+▪️ Wazuh Crash Course – 2+ Hour Free Training <br>
+🔗 https://lnkd.in/dQgmwpfR <br>
+▪️ Wazuh Overview & Architecture <br>
+🔗 https://lnkd.in/dpG6iYuQ <br>
 
-⚡️ Lab Setup
-▪️ Wazuh All-in-One Lab
-🔗 https://lnkd.in/d4TbFJau
-▪️ Install Wazuh on VirtualBox
-🔗 https://lnkd.in/ddD65zu3
-▪️ Install Wazuh on Docker
-🔗 https://lnkd.in/ddD65zu3
-▪️ Create Custom Dashboards
-🔗 https://lnkd.in/dZ-2CxhT
+#### ⚡️ Lab Setup
+▪️ Wazuh All-in-One Lab <br>
+🔗 https://lnkd.in/d4TbFJau <br>
+▪️ Install Wazuh on VirtualBox <br>
+🔗 https://lnkd.in/ddD65zu3 <br>
+▪️ Install Wazuh on Docker <br>
+🔗 https://lnkd.in/ddD65zu3 <br>
+▪️ Create Custom Dashboards <br>
+🔗 https://lnkd.in/dZ-2CxhT <br>
 
-⚡️ Log Analysis
-▪️ Log Ingestion on Wazuh
-🔗 https://lnkd.in/dym9fFxq
-▪️ Windows Sysmon Log Analysis
-🔗 https://lnkd.in/djvb9sZP
-▪️ Graylog Integration
-🔗 https://lnkd.in/d2BxixuY
+#### ⚡️ Log Analysis
+▪️ Log Ingestion on Wazuh <br>
+🔗 https://lnkd.in/dym9fFxq <br>
+▪️ Windows Sysmon Log Analysis <br>
+🔗 https://lnkd.in/djvb9sZP <br>
+▪️ Graylog Integration <br>
+🔗 https://lnkd.in/d2BxixuY <br>
 
-⚡️ Threat Detection
-▪️ Correlation Rules in Wazuh
-🔗 https://lnkd.in/dHtXuXB5
-▪️ VirusTotal Integration
-🔗 https://lnkd.in/dT6YnfpE
-▪️ Suricata IDS Integration
-🔗 https://lnkd.in/dH4R4J-s
-▪️ Advanced Wazuh Rulesets
-🔗 https://lnkd.in/dYFGbrZB
+#### ⚡️ Threat Detection
+▪️ Correlation Rules in Wazuh <br>
+🔗 https://lnkd.in/dHtXuXB5 <br>
+▪️ VirusTotal Integration <br>
+🔗 https://lnkd.in/dT6YnfpE <br>
+▪️ Suricata IDS Integration <br>
+🔗 https://lnkd.in/dH4R4J-s <br>
+▪️ Advanced Wazuh Rulesets <br>
+🔗 https://lnkd.in/dYFGbrZB <br>
 
-⚡️ Incident Response
-▪️ Block SSH Brute-Force
-🔗 https://lnkd.in/d9eWmQUb
-▪️ Disable Linux User Account
-🔗 https://lnkd.in/dAsW4jjt
+#### ⚡️ Incident Response
+▪️ Block SSH Brute-Force <br>
+🔗 https://lnkd.in/d9eWmQUb <br>
+▪️ Disable Linux User Account <br>
+🔗 https://lnkd.in/dAsW4jjt <br>
 
-⚡️ Threat Hunting
-▪️ Hunt via Inventory Data
-🔗 https://lnkd.in/dB97vg-f
+#### ⚡️ Threat Hunting
+▪️ Hunt via Inventory Data <br>
+🔗 https://lnkd.in/dB97vg-f <br>
 ▪️ FIM + Yara for Linux
 🔗 https://lnkd.in/dAwEkarW
