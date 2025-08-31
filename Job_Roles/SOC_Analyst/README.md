@@ -39,6 +39,7 @@ Data source: Infosec Institute
 - [Full notes](https://github.com/MaheshShukla1/SOC-Analyst-Notes)
 - [Comptia Network+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/net%2B.md)
 - [Comptia Security+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/sec%2B.md)
+- [Blue Team Level 1 Guide](https://snoopysecurity.github.io/posts/secblueteam-level1-exam-prep/)
 - While opening `PROD250219_Cyber Interview Questions.apkg` make sure that u have anki installed
 - Install it from here https://apps.ankiweb.net/
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
