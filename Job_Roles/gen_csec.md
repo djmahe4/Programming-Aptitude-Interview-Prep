@@ -1,4 +1,4 @@
-# Cybersecuirty General Roadmap
+# Cybersecurity General Roadmap
 
 [ref](https://www.youtube.com/watch?v=ovj9RUobN-Q)
 
