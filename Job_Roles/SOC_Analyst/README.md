@@ -35,6 +35,7 @@ This document outlines the core duties and responsibilities of a Security Operat
 | 5    | SOC Manager                      | Oversee SOC operations; manage team, budget, and strategy |
 
 Data source: Infosec Institute
+<br>[Roles](https://www.linkedin.com/posts/naresh-k-6b84b7226_cybersecurity-soc-blueteam-activity-7368358241023512576-xrKA)
 ## Interview Prep
 - [Full notes](https://github.com/MaheshShukla1/SOC-Analyst-Notes)
 - [Comptia Network+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/net%2B.md)
