@@ -10,6 +10,7 @@
 ## Linux
 - **[FreeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8)**
 - **[Network Chuck](https://www.youtube.com/watch?v=ugt3PBeqHIo&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=10)**
+- **[cybersecplayground (telegram)](https://t.me/s/cybersecplayground?q=Linux+for+Hackers)**
 
 ## Databases
 - **[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)**
