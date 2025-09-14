@@ -15,6 +15,6 @@
 ## Databases
 - **[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)**
 - **[FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)**
-## Cybersecurity Fundementals
+## Cybersecurity Fundamentals
 - **[Comptia security+](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=1)**
 - **[TheSocialDork (hands on labs)](https://www.youtube.com/watch?v=N0dEC1nuWCQ)**
