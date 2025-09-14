@@ -11,7 +11,7 @@
 ## Expert
 - **[Full Stack web3](https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course)**
 
-## Specialisations
+## Specializations
 
 ### Full Stack Web3 Devoloper
 ` Basics -> Solidity -> Foundry -> Full Stack web3 `
