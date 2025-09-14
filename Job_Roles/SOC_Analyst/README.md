@@ -43,6 +43,7 @@ Data source: Infosec Institute
 - [Blue Team Level 1 Guide](https://snoopysecurity.github.io/posts/secblueteam-level1-exam-prep/)
 - [Free Resources by MyDFIR](https://drive.google.com/file/d/1ha4IK3VFDSVmQAMyxvG_-TZH_OdrvPEm/view)
 - While opening `PROD250219_Cyber Interview Questions.apkg` make sure that u have anki installed (Install it from [here](https://apps.ankiweb.net/))
+- [More Anki interview questions based on certifications](https://drive.google.com/drive/folders/10AKUnQg6EbNFyLSgdbSZjF1Ga5LlVAyR?usp=drive_link)
 - [90 days study plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Ai powered project ideas](https://youtu.be/EX0NpcCCrWY)
 - [𝑭𝒓𝒆𝒆 𝑺𝑰𝑬𝑴 𝑻𝒓𝒂𝒊𝒏𝒊𝒏𝒈 & 𝑯𝒂𝒏𝒅𝒔-𝑶𝒏 𝑳𝒂𝒃𝒔](https://x.com/SecurityTrybe/status/1945056525594005811)
