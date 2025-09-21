@@ -193,3 +193,80 @@ Data source: Infosec Institute
 🔗 https://lnkd.in/dB97vg-f <br>
 ▪️ FIM + Yara for Linux <br>
 🔗 https://lnkd.in/dAwEkarW
+
+## Cybersecurity Home Lab Ideas -> [link](https://x.com/TheCyberPatron_/status/1969481548341600733)
+
+𝟏. Google Gruyere – Web vuln lab → Exploit flaws & analyze logs.
+ google-gruyere.appspot.com
+
+𝟐. YARA – Malware pattern matching → Write rules & scan samples.
+ virustotal.github.io/yara
+
+𝟑. Velociraptor – Endpoint hunting/IR → Collect artifacts & hunt threats.
+ velocidex.com
+
+𝟒. Security Onion (SOC mode) – SOC practice → Triage alerts & investigate in lab.
+ lnkd.in/g_TDAUHY
+
+𝟓. Blue Team Labs – SOC challenges → Complete detection & response tasks.
+ blueteamlabs.online
+
+𝟔. IR Plan – Incident response template → Adapt & test with lab scenarios.
+ lnkd.in/g3Y5cNvk
+
+𝟕. KAPE – Forensic triage tool → Collect artifacts from lab machines.
+ lnkd.in/gN7RquDU | lnkd.in/gJPwSaXt
+
+𝟖. Volatility – Memory forensics → Analyze RAM dumps for evidence.
+ volatilityfoundation.org
+
+𝟗. Clonezilla – Disk imaging → Back up or restore lab systems.
+ clonezilla.org
+
+𝟏𝟎. VirtualBox Networking – Isolated nets → Simulate segmented environments.
+ lnkd.in/ghb7Hkme
+
+𝟏𝟏. MITRE ATT&CK – TTP knowledge base → Map attacker techniques in lab.
+ attack.mitre.org
+
+𝟏𝟐. TheHive – IR case management → Track incidents & investigations.
+ thehive-project.org
+
+𝟏𝟑. Wazuh (IR mode) – Alerts & correlation → Respond to lab-generated events.
+ wazuh.com/install
+
+𝟏𝟒. TTX Framework – Tabletop exercises → Run simulated IR discussions.
+ lnkd.in/gPfEqV8Z
+
+𝟏𝟓. DetectionLab – Prebuilt DFIR lab → Deploy with logging & monitoring.
+ lnkd.in/gbmiTYrM
+
+𝟏𝟔. VirtualBox – VM management → Create & run isolated machines.
+ lnkd.in/gscBk7g7
+
+𝟏𝟕. Linux CLI – Shell tutorials → Practice commands on test systems.
+ lnkd.in/gR8m3tbG
+
+𝟏𝟖. Cockpit – Linux web admin → Manage servers through a browser.
+ cockpit-project.org
+
+𝟏𝟗. Nmap – Network scanning → Discover hosts & open ports.
+ nmap.org/download.html
+
+𝟐𝟎. Apache – Local web server → Host sites in a lab environment.
+ lnkd.in/gqQP6Grg
+
+𝟐𝟏. Pi-hole – DNS sinkhole → Block ads & trackers in lab net.
+ pi-hole.net
+
+𝟐𝟐. OverTheWire – Linux CTF games → Learn by solving wargames.
+ lnkd.in/gMUTzt5m
+
+𝟐𝟑. TryHackMe – Linux fundamentals → Follow guided hands-on labs.
+ lnkd.in/gnhuJaiM
+
+𝟐𝟒. Wireshark (advanced) – Packet analysis → Use filters & inspect sessions.
+ lnkd.in/gsEp7XgX
+
+𝟐𝟓. Phishing Quiz – Phish detection → Test spotting suspicious emails.
+ lnkd.in/gQZJFB96
