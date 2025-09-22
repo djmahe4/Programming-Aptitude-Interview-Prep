@@ -270,3 +270,5 @@ Data source: Infosec Institute
 
 𝟐𝟓. Phishing Quiz – Phish detection → Test spotting suspicious emails.
  lnkd.in/gQZJFB96
+
+𝟐𝟓. Osint training https://training.dfirdiva.com/listing-category/osint
