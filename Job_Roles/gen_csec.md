@@ -18,3 +18,6 @@
 ## Cybersecurity Fundamentals
 - **[Comptia security+](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&index=1)**
 - **[TheSocialDork (hands on labs)](https://www.youtube.com/watch?v=N0dEC1nuWCQ)**
+
+### Youtube channels
+![csec_yt.jpg](youtube channels)
