@@ -20,4 +20,4 @@
 - **[TheSocialDork (hands on labs)](https://www.youtube.com/watch?v=N0dEC1nuWCQ)**
 
 ### Youtube channels
-![csec_yt.jpg](youtube_channels)
+![youtube channels](csec_yt.jpg)
