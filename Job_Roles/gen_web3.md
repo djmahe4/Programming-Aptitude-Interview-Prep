@@ -20,3 +20,6 @@
 ### [Foundry Smart Contract Devoloper](https://updraft.cyfrin.io/career-tracks/solidity-smart-contract-developer)
 ### [Python Vyper Smart Contract Devoloper](https://updraft.cyfrin.io/career-tracks/vyper-smart-contract-developer)
 ### [Algorand Builder](https://www.risein.com/courses/build-on-algorand)
+
+## security resources 
+[1](https://github.com/K2SOsint/Legendary_Crypto)
