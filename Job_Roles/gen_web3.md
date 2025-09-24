@@ -22,4 +22,5 @@
 ### [Algorand Builder](https://www.risein.com/courses/build-on-algorand)
 
 ## security resources 
-[1](https://github.com/K2SOsint/Legendary_Crypto)
+[1](https://github.com/K2SOsint/Legendary_Crypto)<br>
+[2](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-blockchain--cryptocurrency)
