@@ -23,4 +23,5 @@
 
 ## security resources 
 [1](https://github.com/K2SOsint/Legendary_Crypto)<br>
-[2](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-blockchain--cryptocurrency)
+## Other resources 
+[courses and ebooks collection](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-blockchain--cryptocurrency)
