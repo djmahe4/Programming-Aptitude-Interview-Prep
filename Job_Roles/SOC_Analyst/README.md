@@ -38,6 +38,7 @@ Data source: Infosec Institute
 <br>[Roles](https://www.linkedin.com/posts/naresh-k-6b84b7226_cybersecurity-soc-blueteam-activity-7368358241023512576-xrKA)
 ## Interview Prep
 - [Full notes](https://github.com/MaheshShukla1/SOC-Analyst-Notes)
+- [free soc course by Microsoft](https://github.com/microsoft/SOC)
 - [Comptia Network+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/net%2B.md)
 - [Comptia Security+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/sec%2B.md)
 - [Blue Team Level 1 Guide](https://snoopysecurity.github.io/posts/secblueteam-level1-exam-prep/)
