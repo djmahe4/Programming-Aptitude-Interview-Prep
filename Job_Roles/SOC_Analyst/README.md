@@ -23,6 +23,24 @@ This document outlines the core duties and responsibilities of a Security Operat
 - Plan and test disaster recovery and business continuity workflows; refine IR drills and tabletop exercises to improve response readiness.
 
 ---
+## [Soc free courses](https://x.com/TheCyberPatron_/status/1972443320086385080)
+All listed SOC certifications are free:🚨
+
+1. Coursera - Security Operations Center (SOC) Fundamentals
+lnkd.in/gCJQVC-s
+
+2. Cisco SOC Analyst (CCST)
+lnkd.in/gZ8nc2FR
+
+3. TryHackMe SOC Level 1
+lnkd.in/gnKNzjnh
+
+4. LetsDefend SOC Analyst Path
+lnkd.in/gj6W7uEe
+
+5. Splunk Fundamentals 1 (SOC focus)
+lnkd.in/gvqGrm8g
+
 
 ## Career Progression
 
