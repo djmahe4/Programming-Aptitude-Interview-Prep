@@ -54,6 +54,15 @@ This document outlines the core duties and responsibilities of a Red Teamer, fol
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
 - [SQLi notes](https://www.linkedin.com/posts/deepmarketer_sqli-notes-activity-7350016569676099584-l55y)
 - [free certs](https://www.linkedin.com/feed/update/urn:li:activity:7371164566770081792)
+## Recommended learning platforms 
+
+**[thexssrat](labs.thexssrat.com)
+[PentesterLab](https://pentesterlab.com/)
+[hackthebox_eu](https://www.hackthebox.com/)
+[RealTryHackMe](https://tryhackme.com/)
+[Hackutendotcom](https://hackuten.com/)
+[PortSwigger](https://portswigger.net/)
+[247CTF](https://247ctf.com/)**
 ## Types of hackers -> [link](https://x.com/cyber_razz/status/1952278585173045370)
 ![types](20250805_100727.jpg)
 ## Roadmap by [SecurityTrybe](https://x.com/SecurityTrybe/status/1949827839731150914)
