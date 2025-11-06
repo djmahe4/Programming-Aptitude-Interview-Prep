@@ -1,6 +1,7 @@
 # Cybersecurity General Roadmap
 
-[ref](https://www.youtube.com/watch?v=ovj9RUobN-Q)
+[ref1](https://www.youtube.com/watch?v=ovj9RUobN-Q)<br>
+[ref2](https://x.com/omoalhajaabiola/status/1986113145249706425)
 
 ## Networking
 
