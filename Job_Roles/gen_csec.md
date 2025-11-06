@@ -21,3 +21,15 @@
 
 ### Youtube channels
 ![youtube channels](csec_yt.jpg)
+
+## Video Tutorials 
+
+**[CisCo CCNA cloud computing training videos](https://drive.google.com/drive/mobile/folders/1nfMk2J6zd5Sjmj9vKS-Pw9DX4HBeNLJ_)**
+
+
+
+**[CompTIA cloud essentials training video  ](https://drive.google.com/drive/mobile/folders/1Cb2IRbxoIHyc0BM8e0-6FRHRczBum6r9?usp=drive_open)**
+
+  
+
+**[CompTIA network security training video](https://drive.google.com/drive/mobile/folders/1X_9B33qINeXXS92WrSPCjybIYgwcPFof)**
