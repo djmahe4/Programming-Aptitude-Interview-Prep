@@ -1,4 +1,4 @@
-FREE GRC TRAINING VIDEOS - Careers in Governance, Risk and Compliance.
+# FREE GRC TRAINING VIDEOS - Careers in Governance, Risk and Compliance.
 
 Mike  Miller has curated a list of free training videos that will give you a  huge head start in the field of GRC. If you are looking for a great  career in Cyber Security, but you aren't super technical, this could be  your path in.
 
