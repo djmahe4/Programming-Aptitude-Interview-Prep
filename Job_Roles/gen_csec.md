@@ -12,7 +12,14 @@
 - **[FreeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8)**
 - **[Network Chuck](https://www.youtube.com/watch?v=ugt3PBeqHIo&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=10)**
 - **[cybersecplayground (telegram)](https://t.me/s/cybersecplayground?q=Linux+for+Hackers)**
-
+### Basics to Advanced 
+- [Day 1](https://hacklido.com/blog/1287-linux-mastery-from-zero-to-hero-day-1)
+- [Day 2](https://hacklido.com/blog/1291-linux-filesystem-hierarchy-standard-fhs-linux-mastery-from-zero-to-hero-day-2)
+- [Day 3](https://hacklido.com/blog/1302-file-permissions-working-with-files-and-text-linux-mastery-from-zero-to-hero-day-3)
+- [Day 4](https://hacklido.com/blog/1309-power-user-tools-linux-mastery-from-zero-to-hero-day-3)
+- [Day 5](https://hacklido.com/blog/1320-user-and-process-management-linux-mastery-from-zero-to-hero-day-5)
+- [Day 6](https://hacklido.com/blog/1328-bash-scripting-fundamentals-linux-mastery-from-zero-to-hero-day-6)
+- [See More](https://hacklido.com/t/linux)
 ## Databases
 - **[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)**
 - **[FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)**
