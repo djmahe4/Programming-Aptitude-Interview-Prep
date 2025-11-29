@@ -57,6 +57,7 @@ Data source: Infosec Institute
 ## Interview Prep
 - [Full notes](https://github.com/MaheshShukla1/SOC-Analyst-Notes)
 - [free soc course by Microsoft](https://github.com/microsoft/SOC)
+- [Soc Tier 1 Interview Prep](https://www.linkedin.com/posts/mr-noman-9a0bbb271_soc-analyst-tier-1technical-interview-ugcPost-7399542853783240705-sSeP)
 - [Comptia Network+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/net%2B.md)
 - [Comptia Security+ 3 week Guide](https://github.com/djmahe4/Programming-Aptitude-Interview-Prep/blob/main/Job_Roles/SOC_Analyst/sec%2B.md)
 - [Blue Team Level 1 Guide](https://snoopysecurity.github.io/posts/secblueteam-level1-exam-prep/)
