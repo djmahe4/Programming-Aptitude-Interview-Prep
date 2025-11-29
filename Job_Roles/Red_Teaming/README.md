@@ -54,6 +54,7 @@ This document outlines the core duties and responsibilities of a Red Teamer, fol
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
 - [SQLi notes](https://www.linkedin.com/posts/deepmarketer_sqli-notes-activity-7350016569676099584-l55y)
 - [free certs](https://www.linkedin.com/feed/update/urn:li:activity:7371164566770081792)
+- [free certs 2](https://hacklido.com/blog/1326-free-vapt-penetration-testing-learning-resources-with-certificates)
 ## Recommended learning platforms 
 
 **[thexssrat](labs.thexssrat.com)<br>
