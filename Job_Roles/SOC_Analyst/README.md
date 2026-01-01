@@ -69,6 +69,7 @@ Data source: Infosec Institute
 - [𝑭𝒓𝒆𝒆 𝑺𝑰𝑬𝑴 𝑻𝒓𝒂𝒊𝒏𝒊𝒏𝒈 & 𝑯𝒂𝒏𝒅𝒔-𝑶𝒏 𝑳𝒂𝒃𝒔](https://x.com/SecurityTrybe/status/1945056525594005811)
 - [free certs](https://github.com/cloudcommunity/Free-Certifications?tab=readme-ov-file#security)
 - [Soc lab project](https://github.com/josh55338/Blue-Team-Soc-Portfolio)
+- [Agentic soc platform](https://github.com/FunnyWolf/agentic-soc-platform/)
 ## SOC Analyst Roadmap 🔵🎯 -> [link](https://x.com/SecurityTrybe/status/1942642972383650286)
 ```
 ├── Core Skills  
