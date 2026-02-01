@@ -74,6 +74,7 @@
 3) [OMFYS Technologies Interview Experience System Engineer Trainee /Chatbot Developer](https://www.geeksforgeeks.org/interview-experiences/omfys-technologies-interview-experience-system-engineer-trainee-chatbot-developer/)
 4) [Accenture Interview Experience for LLM Operations Engineer](https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-llm-operations-engineer-experienced/)
 5) [Accenture Final Interview : Experience for LLM Operations Engineer (Experienced) – Selected](https://www.geeksforgeeks.org/interview-experiences/accenture-final-interview-experience-for-llm-operations-engineer-experienced-selected/)
+6) [NiCE Interview Experience for Professional Services Engineer (Chatbot)](https://www.geeksforgeeks.org/interview-experiences/nice-interview-experience-for-professional-services-engineer-chatbot/)
 
 ---
 
