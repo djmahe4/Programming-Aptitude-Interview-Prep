@@ -68,6 +68,7 @@
 2) [C++ Memory Allocation - LearnCPP](https://www.learncpp.com/cpp-tutorial/dynamic-memory-allocation-with-new-and-delete/)
 3) [Programming Cheat Sheet - Google Sheets](https://docs.google.com/spreadsheets/d/1n7R1P5XnWInTTl89GPuw0RWOsoDiAsRWRDSwLVMlWNE/edit#gid=0)
 4) [Free E-Books Collection](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20F/CSE%20%20IT%20AIDS%20ML/)
+5) [Company based leetcode questions](https://github.com/liquidslr/interview-company-wise-problems/)
 
 ---
 
