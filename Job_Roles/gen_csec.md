@@ -41,3 +41,11 @@
   
 
 **[CompTIA network security training video](https://drive.google.com/drive/mobile/folders/1X_9B33qINeXXS92WrSPCjybIYgwcPFof)**
+
+## Platforms to learn Cybersecurity for FREE:
+
+Cybrary  cybrary.it
+AttackIQ MITRE ATT&CK lnkd.in/dcfmSPEJ
+Splunk Courses  lnkd.in/d_dZNdu?_l=en_…
+CSI Linux Forensics  lnkd.in/dhjwx_5h
+Fortinet Training  lnkd.in/dmmkZ-tH
