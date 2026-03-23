@@ -1,6 +1,8 @@
 # SOC Analyst: Duties, Responsibilities, Career Progression, Interview prep and Roadmap
 
-This document outlines the core duties and responsibilities of a Security Operations Center (SOC) analyst, followed by a typical career progression path.
+This document outlines the core duties and responsibilities of a Security Operations Center (SOC) analyst, followed by a typical career progression path.<br>
+
+**[List of papers and resources](https://github.com/cyb3rxp/awesome-soc)**
 
 ---
 
