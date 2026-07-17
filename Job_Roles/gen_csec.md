@@ -19,6 +19,9 @@
 - [Day 4](https://hacklido.com/blog/1309-power-user-tools-linux-mastery-from-zero-to-hero-day-3)
 - [Day 5](https://hacklido.com/blog/1320-user-and-process-management-linux-mastery-from-zero-to-hero-day-5)
 - [Day 6](https://hacklido.com/blog/1328-bash-scripting-fundamentals-linux-mastery-from-zero-to-hero-day-6)
+- [Day 7]()
+- [Day 8](https://hacklido.com/blog/1348-networking-stacksystem-administration-advanced-linux-mastery-from-zero-to-hero-day-8)
+- [Day 9]()
 - [See More](https://hacklido.com/t/linux)
 ## Databases
 - **[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)**
