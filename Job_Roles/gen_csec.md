@@ -47,8 +47,8 @@
 
 ## Platforms to learn Cybersecurity for FREE:
 
-Cybrary  cybrary.it
-AttackIQ MITRE ATT&CK lnkd.in/dcfmSPEJ
-Splunk Courses  lnkd.in/d_dZNdu?_l=en_…
-CSI Linux Forensics  lnkd.in/dhjwx_5h
-Fortinet Training  lnkd.in/dmmkZ-tH
+- [Cybrary](https://www.cybrary.it/)
+- [AttackIQ MITRE ATT&CK](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck) 
+- [Splunk Courses](https://www.splunk.com/en_us/training/free-courses/overview.html)
+- [CSI Linux Forensics](https://csilinux.com/#academy)
+- [Fortinet Training](https://training.fortinet.com/)
