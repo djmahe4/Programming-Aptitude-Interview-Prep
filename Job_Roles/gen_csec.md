@@ -21,7 +21,7 @@
 - [Day 6](https://hacklido.com/blog/1328-bash-scripting-fundamentals-linux-mastery-from-zero-to-hero-day-6)
 - [Day 7]()
 - [Day 8](https://hacklido.com/blog/1348-networking-stacksystem-administration-advanced-linux-mastery-from-zero-to-hero-day-8)
-- [Day 9]()
+- [Day 9](https://hacklido.com/blog/1356-package-management-and-repositories-system-administration-advanced-linux-mastery-from-zero-to-hero-day-9)
 - [See More](https://hacklido.com/t/linux)
 ## Databases
 - **[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)**
