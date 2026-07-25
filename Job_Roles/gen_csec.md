@@ -45,6 +45,10 @@
 
 **[CompTIA network security training video](https://drive.google.com/drive/mobile/folders/1X_9B33qINeXXS92WrSPCjybIYgwcPFof)**
 
+## Pdf tutorials
+
+- **[Tool based](https://drive.google.com/drive/u/0/mobile/folders/1lGnd9YAzE5-Nes8NAsDDMpd-Aq3GES3p)**
+
 ## Platforms to learn Cybersecurity for FREE:
 
 - [Cybrary](https://www.cybrary.it/)
